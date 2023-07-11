@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">User Tracking System</string>
+    <string name="title_activity_maps">Maps Activity</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="clint_lbl">Integrated Login</string>
+    <string name="todo">TODO</string>
+    <string name="email">Email</string>
+    <string name="register">Register</string>
+    <string name="back_to_login">Back To Login</string>
+    <string name="username">Full Name</string>
+    <string name="logout">Logout</string>
+    <string name="settings">About</string>
+    <string name="exit">Exit App</string>
+    <string name="help">Help</string>
+    <string name="welcome_back">Welcome Back</string>
+    <string name="sub_title">Choose an option to continue</string>
+    <string name="tracker_users">Track users</string>
+    <string name="share_location">Track Self</string>
+    <string name="choose_user">Choose a user to begin tracking</string>
+    <string name="dashboard">Admin Dashboard</string>
+    <string name="about">Start real-time tracking on your smartphone. User Tracker Application is perfect for personal use (tracking of family members, friends etc.) or businesses (tracking and managing employees). Get various notifications and reports, get directions to your destination, distance, travel history, stopovers and many more. Choose one of the map, including: Satellite, Google, OSM and start using our GPS user tracking system. \n\nCopyright @2022, all right reserved. \n\nVersion 1.0</string>
+    <string name="help_str">After successful login, choose either to track you current location (Track Self) or another user\'s location (Track User). \nNote for you to be able to track another user, you need Admin access key in order to gain access to the admin Dashboard.</string>
+    <!-- Strings used for fragments for navigation -->
+</resources>

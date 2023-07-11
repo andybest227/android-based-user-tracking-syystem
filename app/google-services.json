@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "811929236112",
+    "project_id": "user-tracking-system-1dcdc",
+    "storage_bucket": "user-tracking-system-1dcdc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811929236112:android:c5734ab96ba5bf4778de15",
+        "android_client_info": {
+          "package_name": "com.example.usertrackingsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "811929236112-2rcbad9k1oonn7i5jhu42m0i37b5d0i7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDa5jXWMTJHAi_rR3tNH99F5OXeW1LvgqA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "811929236112-2rcbad9k1oonn7i5jhu42m0i37b5d0i7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
